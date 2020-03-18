@@ -1,11 +1,55 @@
-.navbar{
-    background-color: #B8F25E;
+body{
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.quem-Somos{
-    background-color: #E77082;
+
+.navbar{
+    background-color: rgb(159, 167, 236);
+    
 }
+
+
+.quem-Somos{
+    background-color: rgb(206, 28, 55);
+    color: violet;
+    
+}
+
 
 .margin{
     padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.bg-parcerias{
+    background-color: coral;
+}
+
+
+.titulo{
+    color: #06137C;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.paragrafo{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.col-p{
+    font: arial;
+    font-size: 20px;
+    margin-top:20px;
+}
+
+.bg-servicos{
+    background-color: ;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
