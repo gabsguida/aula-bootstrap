@@ -4,15 +4,14 @@ body{
 
 
 .navbar{
-    background-color: rgb(159, 167, 236);
+    background-color: rgb(110, 204, 233);
     
 }
 
 
 .quem-Somos{
-    background-color: rgb(206, 28, 55);
+    background-color: white;
     color: violet;
-    
 }
 
 
@@ -23,7 +22,7 @@ body{
 
 
 .bg-parcerias{
-    background-color: coral;
+    background-color: rgb(128, 226, 221);
 }
 
 
@@ -46,10 +45,10 @@ body{
 }
 
 .bg-servicos{
-    background-color: ;
+    background-color:white;
 }
 
 .bg-footer{
     background-color: black;
-    color: white;
+    color:white;
 }
